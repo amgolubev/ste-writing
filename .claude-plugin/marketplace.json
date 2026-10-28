@@ -1,0 +1,14 @@
+{
+  "name": "ste-writing",
+  "description": "Writing skills for technical documentation",
+  "owner": {
+    "name": "amgolubev"
+  },
+  "plugins": [
+    {
+      "name": "ste-writing",
+      "source": "./plugins/ste-writing",
+      "description": "Write, review and convert technical docs in Simplified Technical English (ASD-STE100) style"
+    }
+  ]
+}

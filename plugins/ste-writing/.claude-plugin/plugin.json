@@ -1,0 +1,12 @@
+{
+  "name": "ste-writing",
+  "version": "1.0.0",
+  "description": "Write, review and convert technical docs in Simplified Technical English (ASD-STE100) style. Includes a checker script that reports long sentences, vague modals, passive voice and complex words.",
+  "author": {
+    "name": "amgolubev"
+  },
+  "homepage": "https://github.com/amgolubev/ste-writing",
+  "repository": "https://github.com/amgolubev/ste-writing",
+  "license": "MIT",
+  "keywords": ["documentation", "technical-writing", "ste", "asd-ste100", "style-guide", "plain-language"]
+}
